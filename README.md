@@ -24,6 +24,6 @@ AUTHOR_ID=
 # Creditler
 ## [@DazzGranto](https://github.com/DazzGranto)
 - [DazzGranto/basic-discord-bot](https://github.com/DazzGranto/basic-discord-bot)
-## [@SimonLeclere](https://github.com/DazzGranto)
+## [@SimonLeclere](https://github.com/SimonLeclere)
 - [SimonLeclere/discord-starboards](https://github.com/SimonLeclere/discord-starboards)
 - [SimonLeclere/Starboards-Bot](https://github.com/SimonLeclere/Starboards-Bot)
