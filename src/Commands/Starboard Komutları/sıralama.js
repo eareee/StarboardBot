@@ -42,5 +42,10 @@ module.exports = class extends Command {
 
 const clean = (str) =>
 	str.startsWith("```") && str.endsWith("```")
-		? `\`\`\`${str.slice(3, -3)}\`\`\``
-		: `\`\`\`${str}\`\`\``;
+		? `\`\`\`${str
+				.slice(3, -3)
+				.split("[Mesaja gitmek için buraya tıklayın]")[0]
+				.trim()}\`\`\``
+		: `\`\`\`${str
+				.split("[Mesaja gitmek için buraya tıklayın]")[0]
+				.trim()}\`\`\``;
