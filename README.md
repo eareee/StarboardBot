@@ -1,7 +1,9 @@
-# Starboard Bot
+# 🌟 Starboard Bot
 
-## Nasıl kurulur?
+## ⚙️ Nasıl kurulur?
+
 Öncelikle `.env_config` dosyasını `.env` olarak yeniden adlandırın ve `.env` içindeki değerleri doldurun:
+
 ```
 # Bot tokeniniz
 TOKEN=
@@ -13,17 +15,27 @@ PREFIX=
 AUTHOR_ID=
 ```
 
-## Screenshotlar
-### Ayarlama
-![](https://user-images.githubusercontent.com/67333585/120172803-15702800-c20c-11eb-9291-eabe0bb96d1d.png)
-### Örnek
-![](https://user-images.githubusercontent.com/67333585/120172964-3afd3180-c20c-11eb-87c1-37bc4fffb43d.png)
-### Kapatma
-![](https://user-images.githubusercontent.com/67333585/120173095-5d8f4a80-c20c-11eb-860a-99db340f77ea.png)
+## 📸 Screenshotlar
 
-# Creditler
+### 🔧 Ayarlama
+
+![resim](https://user-images.githubusercontent.com/67333585/132129856-f145f179-a401-4495-975e-d67b6aef8935.png)
+
+### 📌 Örnek
+
+![resim](https://user-images.githubusercontent.com/67333585/132129865-e72c0e0b-3f35-4b66-88ed-5e1a421988e4.png)
+
+### 🔒 Kapatma
+
+![resim](https://user-images.githubusercontent.com/67333585/132129871-39a3adb8-b262-46bb-9cd9-3488763e44af.png)
+
+# 🙌 Creditler
+
 ## [@DazzGranto](https://github.com/DazzGranto)
+
 - [DazzGranto/basic-discord-bot](https://github.com/DazzGranto/basic-discord-bot)
+
 ## [@SimonLeclere](https://github.com/SimonLeclere)
+
 - [SimonLeclere/discord-starboards](https://github.com/SimonLeclere/discord-starboards)
 - [SimonLeclere/Starboards-Bot](https://github.com/SimonLeclere/Starboards-Bot)
